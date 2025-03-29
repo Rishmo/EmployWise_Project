@@ -18,7 +18,7 @@ EmployWise is a sleek, modern web application designed to streamline user manage
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/Rishmo/EmployWise_Project.git
+    git clone [https://github.com/Rishmo/EmployWise_Project.git](https://github.com/Rishmo/EmployWise_Project.git)
     ```
 
 2.  **Install Dependencies:**
@@ -52,3 +52,27 @@ I'll be excited to see how you use EmployWise! Feel free to reach out with any q
 ---
 
 **Crafted with ❤️ and ☕ by Moon Sahu :)**
+
+## Login Page
+
+Here's a screenshot of the login page:
+
+![Login Page Screenshot](Screenshots/Login.png)
+
+The login page allows users to enter their credentials.
+
+## User List Page
+
+Here's a screenshot of the user list page:
+
+![User List Page Screenshot](Screenshots/User_List.png)
+
+The user list page displays all users with their details.
+
+## Update Page
+
+Here's a screenshot of the update page:
+
+![Update Page Screenshot](Screenshots/User_Update.png)
+
+The update page allows users to edit user details.
