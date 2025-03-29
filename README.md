@@ -18,7 +18,7 @@ EmployWise is a sleek, modern web application designed to streamline user manage
 1.  **Clone the Repository:**
 
     ```bash
-    git clone [https://github.com/Rishmo/EmployWise_Project.git](https://github.com/Rishmo/EmployWise_Project.git)
+    git clone https://github.com/Rishmo/EmployWise_Project.git
     ```
 
 2.  **Install Dependencies:**
